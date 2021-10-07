@@ -9,4 +9,5 @@ int main(){
  prin
 >>>>>>> 8c9b7e26fd093d213ce4c03c7abf36968234394a
  return 0;
+ printf("im testman");
 }
